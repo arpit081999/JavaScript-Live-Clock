@@ -1,0 +1,20 @@
+body {
+    background:black ;
+}
+
+.clock {
+    color:  #FF4005;
+    font-size: 120px;
+    font-family: Orbitron;
+    letter-spacing: 6px;
+	margin-top: 280px;
+	margin-left: 400px;
+	 text-shadow: 2px 2px 8px #00f43d;
+}
+h4{
+	font-size: 70px;
+	 font-family: 'Bungee', cursive;
+	 color:#72ff4a;
+	 letter-spacing: 1px;
+	margin-left: 400px;
+}
